@@ -1,5 +1,8 @@
 # halloween-counter
 
+Live version: https://stirring-strudel-7df28d.netlify.app/
+
+
 Made this quick halloween counter for my FAVORITE time of year when I pass out candy for the neighborhood kids. 
 
 I always like to keep track of how many kids we have so I can make sure I have enough candy for the following year. So far we run out EVERY year just in time. 
